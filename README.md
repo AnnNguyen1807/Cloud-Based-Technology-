@@ -35,15 +35,31 @@ Secondly, Asking the question: "How does a Dialogflow CX agent interact with dat
 ### Experiment
 The goal of this experiment is to evaluate NotebookLM's Content Analysis feature by analyzing academic documents on AI in education to extract key topics, patterns, and insights that may not be immediately apparent. Prompted NotebookLM to analyze how Dialogflow CX agents interact with data stores. 
 
-## Results
+### Results
 
-- The tool identified key concepts such as API integrations, data retrieval protocols, and entity matching, providing insights that help students connect theoretical knowledge to practical applications.
+- The tool identified key concepts such as API integrations, data retrieval protocols, and entity matching from various documents provided and providing insights that help students connect theoretical knowledge to practical applications.
 - Provide a synthesized list of insights and relevant questions based on the identified themes.
-![Content Analysis](https://github.com/AnnNguyen1807/Cloud-Based-Technology-/blob/main/Screenshot%202024-11-10%20183505.png)
+![Content Analysis](https://github.com/AnnNguyen1807/Cloud-Based-Technology-/blob/main/Screenshot%202024-11-10%20184352.png)
 
 ### Key Observations:
 - The analysis effectively identified major themes across the documents, including AI’s role in enhancing personalized learning.
 - The tool provided relevant questions for further exploration, which could help guide research or project development.
+
+## Learning Paths 
+
+### Experiment
+The objective of this experiment is to assess NotebookLM's custom learning path feature, which enables students to organize and format their study materials in ways that improve engagement and retention. In this experiment, we focus on generating a study guide from documents related to AI in education. The process began by selecting the "Study Guide" format from the preset options provided by NotebookLM.
+
+### Results
+
+- NotebookLM generated a structured study guide with clear sections for key points, including AI's role in personalized learning and ethical concerns. The content was presented in a way that facilitated easier understanding of complex topics.
+
+![Guide](https://github.com/AnnNguyen1807/Cloud-Based-Technology-/blob/main/Screenshot%202024-11-10%20184352.png)
+
+### Key Observations:
+- The study guide effectively summarized the main points, making it easy to review.
+- The format was particularly helpful for breaking down complex topics into manageable sections.
+  
 
 ## Audio Overview
 

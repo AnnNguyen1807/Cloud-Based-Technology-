@@ -1,5 +1,20 @@
 # Experiment with NotebookLM
 
+## Content Summarization Experiment with NotebookLM
+
+### Experiment
+The goal of this experiment is to evaluate NotebookLM's content summarization feature by testing its ability to generate concise and accurate summaries from complex academic documents, specifically focusing on research papers related to cognitive psychology. After uploading a research paper into NotebookLM, NotebookLM automatically creates structured summaries with distinct sections for key findings, numerical data, and main arguments
+
+### Results
+
+![Content_summarization](https://i.imgur.com/example.png "Audio Overview Example")
+
+### Key Observations:
+- The summary effectively captured the main points of the document, including key theories and findings.
+- The structured format made it easy to identify important sections such as key findings and numerical data.
+- However, some nuanced details and complex theoretical discussions were oversimplified.
+
+
 ## Audio Overview Experiment with NotebookLM
 
 ### Objective

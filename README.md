@@ -7,7 +7,7 @@ The goal of this experiment is to evaluate NotebookLM's content summarization fe
 
 ### Results
 
-![Content_summarization](https://i.imgur.com/example.png "Audio Overview Example")
+![Content_summarization](https://github.com/AnnNguyen1807/Cloud-Based-Technology-/blob/main/Screenshot%202024-11-10%20181359.png)
 
 ### Key Observations:
 - The summary effectively captured the main points of the document, including key theories and findings.

@@ -25,7 +25,7 @@ The goal of this experiment is to test NotebookLM's Audio Overview feature by ge
 ### Results
 
 The generated audio file can be accessed [here](https://notebooklm.google.com/notebook/12d1e3c7-16f0-46d8-a31d-62aa47b88317/audio).
-Image: [NotebookLM Audio Overview](https://github.com/AnnNguyen1807/Cloud-Based-Technology-/blob/main/Audio_generation)
+Image: ![NotebookLM Audio Overview](https://github.com/AnnNguyen1807/Cloud-Based-Technology-/blob/main/Screenshot%202024-11-10%20175957.png)
 
 ### Key Observations:
 - The summary effectively covered major theories, but some nuanced details were omitted.

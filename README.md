@@ -14,6 +14,22 @@ The goal of this experiment is to evaluate NotebookLM's content summarization fe
 - The structured format made it easy to identify important sections such as key findings and numerical data.
 - However, some nuanced details and complex theoretical discussions were oversimplified.
 
+## Question and Answering (Q&A) 
+
+### Experiment
+The purpose of this experiment is to evaluate NotebookLM's Question & Answer (Q&A) feature by testing its ability to answer specific academic questions based on uploaded course materials. This feature aims to simulate an interactive, tutor-like experience for students. Firstly, uploadeding course materials on Dialogflow CX into NotebookLM.
+Secondly, Asking the question: "How does a Dialogflow CX agent interact with data stores to retrieve information?"
+
+  **Answer Generation**:
+   - NotebookLM generated a detailed response based on the content within the uploaded document, explaining how Dialogflow CX agents use API integrations and data retrieval protocols to interact with data stores. The generated answer included inline citations that referenced specific sections of the document, ensuring that the response was grounded in the provided source material.
+
+## Results
+
+The generated answer can be accessed [here](https://notebooklm.google.com/notebook/12d1e3c7-16f0-46d8-a31d-62aa47b88317/qna).
+
+### Key Observations:
+- The Q&A feature provided accurate and contextually relevant answers for straightforward, factual questions.
+- Inline citations enhanced academic integrity by allowing easy verification of the information.
 
 ## Audio Overview Experiment with NotebookLM
 
